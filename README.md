@@ -1,5 +1,5 @@
 <h2 align="center">
-  HarmonyOS NEXT 项目开发模板
+  HarmonyOS NEXT 项目最佳实践
 </h2>
 
 ## 目录说明
